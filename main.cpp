@@ -8,6 +8,8 @@ int main() {
 
     cout << gcd(12, 18) << "\n"; 
     cout << lcm(12, 18) << "\n"; 
+    cout << isPrime(17) << "\n";
+    cout << isPrime(18) << "\n";
 
     return 0;
 }
